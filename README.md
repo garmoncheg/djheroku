@@ -1,5 +1,7 @@
 # DJHeroku
-The example project for the deployment of Django + Celery on the Heroku hosting. For the article found here:
+The example project for the deployment of Django + Celery on the Heroku hosting.
+For the article found here:
+https://garmoncheg.blogspot.com/2019/02/running-tasks-with-celery-on-heroku.html
 
 # The Stack
 1. Web Framework - Python 3/Django https://docs.djangoproject.com
